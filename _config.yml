@@ -1,18 +1,18 @@
 markdown: kramdown
 highlighter: rouge
 permalink: /blog/:title
-title: Divina Proportione
-date: Jun 7-9
-year: 2017
-tickets: false
-tickets-eb: //eventbrite.com/tickets-external?eid=28863864596&ref=etckt
-tickets-eb-link: http://kerning-2017.eventbrite.com
+title: 
+date: Jun 6-8
+year: 2018
+tickets: true
+tickets-eb: //eventbrite.com/tickets-external?eid=35320045206&ref=etckt
+tickets-eb-link: http://kerning-2018.eventbrite.com
 tickets-eb-height: 400px
-speakers: true
-talks: true
-workshops: true
-schedule: true
-cfs: false
+speakers: false
+talks: false
+workshops: false
+schedule: false
+cfs: true
 rdiscount:
   extensions: [smart]
 gems:
