@@ -1,0 +1,20 @@
+- name: Antonio Cavedoni
+  hour:
+  image: img/2017/antonio.png
+  twitter: verbosus
+  bio: "Antonio Cavedoni is a type designer, self-taught software programmer and serial researcher from Sassuolo, Italia. His background as a Web designer and an obsession with typography took him to the UK, where he graduated with a MA in Typeface Design from the University of Reading. He then spent seven years in the United States, working on fonts at Apple in California. He is now back in Italy, based in Milano, where he works on type design and lettering, researches the history of letterforms, plays guitar and gets used to living in this beautiful country once again."
+  works: You can see his latest works on <a href="http://cavedoni.com/">his website</a> and follow him on <a href="https://twitter.com/verbosus/">twitter</a>.
+  title:
+  abstract:
+  video:
+- name: Amélie Bonet
+  hour:
+  image: img/2017/amelie.png
+  twitter: ameliebonet
+  bio: "Amélie Bonet is a type designer and font engineer, based in Berlin, Germany. She developed a passion for type design with a focus on Indic scripts, during her years in Reading and London. Amélie has worked on projects involving various writing systems, such as Arabic, Bengali, Cyrillic, Devanagari, Georgian, Greek, Tamil, Thai. Her design, Nokia Pure Bengali was awarded at the Granshan competition in 2014. In late summer 2015, Amélie joined the Monotype Font Engineering team."
+  works: You can see her latest works on <a href="http://ameliebonet.com/">her website</a> and follow her on <a href="https://twitter.com/ameliebonet/">twitter</a>.
+  title:
+  abstract:
+  video:
+  
+

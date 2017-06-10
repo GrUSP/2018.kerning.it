@@ -1,0 +1,62 @@
+greatprimer:
+  - name: indian-type-foundry
+    href: https://www.indiantypefoundry.com/?utm_source=kerningconf
+    img: //2017.kerning.it/img/s-indiantypefoundry.png
+    title: ITF is a digital type foundry, designing and distributing fine-quality fonts for Indian and Latin scripts
+pica:
+  - name: hoefler
+    href: http://hflr.co/v2rk8
+    img: //2017.kerning.it/img/s-hoefler.png
+    title: "For 25 years, Hoefler & Co. has helped the world’s foremost publications, corporations, and institutions develop unique voice through typography."
+bourgeois:
+  - name: ideato
+    href: http://www.ideato.it/?utm_source=kerningconf
+    img: //2017.kerning.it/img/s-ideato.png
+    title: Ideato - we create software and develop strategies shaping our customers' ideas
+  - name: stone
+    href: http://www.stonetypefoundry.com/?utm_source=kerningconf
+    img: //2017.kerning.it/img/s-stone.png
+    title: Stone Type Foundry
+  - name: klim
+    href: http://klim.co.nz/?utm_source=kerningconf
+    img: //2017.kerning.it/img/s-klim.png
+    title: "The Klim Type Foundry (Klim) was founded in 2005 by type designer Kris Sowersby. Klim is based in Wellington, New Zealand and sells its typefaces directly through klim.co.nz."
+  - name: ilpiac
+    href: http://www.ilpiac.com/?utm_source=kerningconf
+    img: //2017.kerning.it/img/s-ilpiac.png
+    title: il Piac
+  - name: strada
+    href: http://www.stradaioli.com/?utm_source=kerningconf
+    img: //2017.kerning.it/img/s-stradaioli.png
+    title: Stradaioli
+brevier:
+  - name: MyFonts
+    href: http://www.myfonts.com/?utm_source=Conference&utm_medium=KerningConference&utm_campaign=Kerning&reftag=KerningConference-2017
+    img: //2017.kerning.it/img/s-myfonts.png
+    title: MyFonts
+minion:
+  - name: typekit
+    href: http://www.typekit.com/?utm_source=kerningconf
+    img: //2017.kerning.it/img/s-typekit.png
+    title: Adobe Typekit
+  - name: WorksThatWork
+    href: http://worksthatwork.com?utm_source=kerningconf
+    img: //2017.kerning.it/img/s-wtw.svg
+    title: Works That Work, a magazine of unexpected creativity
+  - name: AntikvariatMorris
+    href: http://www.antikvariatmorris.se/?utm_source=kerningconf
+    img: //2017.kerning.it/img/s-antikvariat.png
+    title: Antikvariat Morris - Rare books on Typography
+  - name: Tangible
+    href: http://tangible.is/?utm_source=kerningconf
+    title: Tangible
+    img: //2017.kerning.it/img/s-tangible.png
+  - name: FontLab
+    href: http://www.fontlab.com/?utm_source=kerningconf
+    title: FontLab
+    img: //2017.kerning.it/img/s-fontlab.png
+  - name: sundayburo
+    href: http://www.sundayburo.com/?utm_source=kerningconf
+    title: Sunday Büro
+    img: //2017.kerning.it/img/s-sunday.png
+media:

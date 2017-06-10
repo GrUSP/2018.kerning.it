@@ -1,0 +1,76 @@
+- name: Jean François Porchez
+  hour:
+  image: img/2017/jean.png
+  twitter: typofonderie
+  bio: "Founder of <a href='http://www.typofonderie.com'>Typofonderie</a>, type director of ZeCraft, Jean François Porchez’s expertise covers both the design of bespoke typefaces, logotypes and typographic consultancy. He is a frequent speaker at conferences all over the world. He launched TypeParis in 2015. Knight in the order of Arts and Letters in 2015. He was awarded the Prix Charles Peignot in 1998 and numerous prizes for his typefaces. Introduced to French Who’s Who in 2009. In 2014, Perrousseaux publishes his monograph.
+
+  After training as a graphic designer, during which he focused on type design, Jean François Porchez (1964) worked as a type director at Dragon Rouge, then at Le Monde newspaper. He is the programme director for typographic design master at ECV (France). He is also honorary President of the Association Typographique Internationale (was ATypI President in 2004–2007). He is board member of the Club des Directeurs Artistiques and member of the Type Directors Club."
+  works:  You can see his latest works on <a href="http://www.zecraft.com/">his website</a> and follow him on <a href="https://twitter.com/typofonderie/">twitter</a>.
+  title: The visible invisibility of words
+  abstract: "Why typography is a vital asset of business communication? Visual identity is built from the colors and typefaces that make up the most fundamental expression of the brand. Meanwhile, the design of typefaces must remain invisible for the convenience of the reader. How to reconcile the contradictions of the typeface designer to meet the needs of his clients? As godfather of modern French typography, Jean Francois Porchez will deliver a talk about his experiences and nuggets of typographic wisdom in designing custom typefaces for some of the world’s most recognizable brands: Le Monde, the Paris Metro, Louis Vuitton, Galleries Lafayette, Sephora, YSL Beauté, The Boston Consulting Group and Nespresso – just to name a few."
+  video:
+- name: Marianna Paszkowska
+  hour:
+  image: img/2017/marianna.png
+  twitter: Allthosenotes
+  bio: "Based in Berlin, Marianna is a Polish font engineer who joined the Monotype team in autumn 2016. Calling herself a geek, Marianna is a type designer, calligraphy enthusiast and bookworm. With a keen and open mind, she is always the one with hands coloured by ink and a head occupied by letters. She loves to share her knowledge with others through her calligraphy and type design workshops."
+  works: You can follow her on <a href="https://twitter.com/Allthosenotes/">twitter</a> or on <a href="https://www.instagram.com/mariannapaszkowska/?hl=en">instagram</a>.
+  title: Redesigning reading experience
+  abstract: "In her talk Marianna will present a Variable Fonts project that she had been working on together with a large team from Monotype. She will discuss what possibilities and challenges which dynamic fonts and today's fast developing technology can bring to the type industry, especially about opportunity of reintroducing size specific adjustments and what it could mean to the end user."
+  video:
+- name: Antonio Cavedoni
+  hour:
+  image: img/2017/antonio.png
+  twitter: verbosus
+  bio: "Antonio Cavedoni is a type designer, self-taught software programmer and serial researcher from Sassuolo, Italia. His background as a Web designer and an obsession with typography took him to the UK, where he graduated with a MA in Typeface Design from the University of Reading. He then spent seven years in the United States, working on fonts at Apple in California. He is now back in Italy, based in Milano, where he works on type design and lettering, researches the history of letterforms, plays guitar and gets used to living in this beautiful country once again."
+  works: You can see his latest works on <a href="http://cavedoni.com/">his website</a> and follow him on <a href="https://twitter.com/verbosus/">twitter</a>.
+  title: On Pacioli’s Letterforms and the Debate Between Art and Science
+  abstract: "Frate Luca Pacioli da Borgo Sansepolcro, a polymath and true <em>Renaissance Man</em>, wrote a chapter of his De Divina Proportione treatise on how to construct Roman capitals with compass and ruler. Despite the 500 years that separate us, we’ll use Frate Pacioli’s work as a lens to revisit the perennial debate between technology and the liberal arts, the organic versus the synthetic, the hand versus the intellect. With no pretense of giving definitive answers, we will offer a few perspectives taken from our personal experience and from the history of letterforms, from Roman times to 20th century Italian type."
+  video:
+- name: Jan Charvát
+  hour:
+  image: img/2017/jan.png
+  twitter: jancharvat_
+  bio: "Jan initially learned Electrical Engineering and then studied computer graphic programming at Prague University where he focused on programming applications and finished with a thesis on virtual TV studios. Before joining Monotype, Jan worked in the graphic design department of a big TV channel in Prague and lectured on design at Podebrady High School. Jan always enjoyed to create typefaces in his spare time – including developing his own python scripts. Type Design and Font Engineering became more and more his primary occupation so consequently he joined Monotype’s team of Font Engineers. When not working Jan enjoys the art of coffee making (he is a certified barista) and loves analog photography."
+  works: You can see his latest works on <a href="http://jancharvat.cz//">his website</a> and follow him on <a href="https://twitter.com/jancharvat_">twitter</a>.
+  title: Capital additions to Georgian typography
+  abstract: "I will talk about the history of Georgian typography, todays condition and problems of users, caused by custom Georgian fonts. Recenty the Uppercase for Georgian script was accepted by Unicode and I will give you update on what was done and what will have to be done to make this work. I will also review new standards for Georgian font-engineering, which contains diacritical marks for Kartvelian languages. Beside that, we gonna look into Georgian copies of famous Monotype fonts and their design fundamentals."
+  video:
+- name: Dan Reynolds
+  hour:
+  image: img/2017/danr.png
+  twitter: typeoff
+  bio: "Dan Reynolds is an independent designer with a focus on letters. He draws typefaces, builds fonts, writes about typography, and even teaches design, too. From 2011 through 2016, he was part of the communication design faculty at the Braunschweig University of Art. Before that, he spent seven years at Linotype GmbH, a company now part of Monotype GmbH. First, he wrote copy in the product marketing department; later, he moved into their font development group. Dan has spent most of his adult life in Germany, and has lived in Berlin since 2009. His doctoral dissertation is on track to be submitted next year; please wish him luck!"
+  works: You can see his latest works on <a href="http://http://www.typeoff.de/">his website</a> and follow him on <a href="https://twitter.com/typeoff/">twitter</a>.
+  title: "What proportion of a typeface’s design is the type designer responsible for? Narratives around designing and manufacturing type in Wilhelmine Germany"
+  abstract: "Is the term “type design” appropriate for the work of pre-industrial punchcutters? All objects produced throughout history have undoubtedly been designed; however, many industrial design historians have abandoned this term for describing objects preceding the Industrial Revolution. In his ongoing research into Wilhelmine type, Dan attempts to arrive at a definition of type design adequately fitting typefoundries’ internal processes. This is often at odds with their own self-presentation, or the reports of early typographic historians.
+
+Norms and standards are common features of industrialisation. German typefounders adopted a number of these in the late 19th and early 20th centuries; from the point of view of designers today, the Universal Baseline may be the most controversial. While they do not seem to have caused designer-frustration on the level Monotype’s unit system later vexed Jan van Krimpen, Germany’s low baselines must have affected the reception of German type abroad. Even Walter Tracy’s brief critique of early 20th century German romans must be partially grounded by the short descenders mandated for certain type sizes."
+  video:
+- name: Lars Harmsen
+  hour:
+  image: img/2017/lars.png
+  twitter: slanted_blog
+  bio: "Lars Harmsen (*1964) is publisher an editor of Slanted Publishers, creative director and partner of Munich-based agency Melville Brand Design and professor for design and typography at the Dortmund University of Applied Sciences & Art. His focus lies on corporate and editorial design. In 1996 he founded Volcano-Type, a type foundry offering more than 200 different typefaces. In 2004 he launched the web blog Slanted, dedicated to typography and design, followed by the eponymous Slanted magazine in 2005. He is author and designer of numerous books on design, typography and photography, including Yearbook of Type I + II, Typodarium, Photodarium, Pride & Glory and others. At Melville he is chief-curator of the artist book series 100for10 and designer of the latest publication, the Raw Bible – a guide for raw and crafted brands."
+  works: You can see his latest works on <a href="http://www.melvilledesign.de/en">his website</a> and follow him on <a href="http://www.slanted.de/">Slanted</a>.
+  title: Choose my identity
+  abstract: "Lars Harmsen loves to travel: between cultures, styles, tasks and projects. As creative director and partner of Munich-based agency Melville Brand Design, professor for design and typography at the Dortmund University of Applied Sciences & Art and head of Slanted Publishers he will present his work and thoughts. The journey will go from war-games to silkscreen-workshops, from typo-love to photo-porn, from magazine-addiction to corporate-think-tanks."
+  video:
+- name: Dan Rhatigan
+  hour:
+  image: img/2017/dan.png
+  twitter: ultrasparky
+  bio: "Dan Rhatigan works with Adobe Typekit in New York as the Senior Manager of Adobe Type. He has over 25 years of eclectic experience in various industries as a typesetter, graphic designer, typeface designer, and teacher, including several years in London and New York serving as Type Director for Monotype. He has a BFA in graphic design from Boston University, and MA in typeface design from the University of Reading in the UK, and a very tattered passport."
+  works: You can see his latest works on <a href="http://ultrasparky.org/">his website</a> and follow him on <a href="http://www.twitter.com/ultrasparky">twitter</a>.
+  title: Marginalized Typography
+  abstract: "As typesetting became easier and cheaper in the age of photosetting and rub-down type, the increased access to a wide array of type styles enabled the growth of publishing in communities that previously had less access to the means of production. Coinciding with an era of social progress, small publications for gay audiences rose up from the underground to achieve commercial success as their visibility grew and their social stigma decreased. This overview of magazines for mature gay audiences looks at the often novel and witty use of typography and design in genres rarely considered for anything other than their photography. Removing the focus on imagery, it's useful to see how much this genre has in common with other movements in the 20th century. Analysis of the typefaces used and how they were typeset also reveal clues about the changing means of production available over the years, and the evolution of some publications as their communities and markets shifted over the years from the underground to the increasingly mainstream."
+  video:
+- name: Thomas Phinney
+  hour:
+  image: img/2017/thomas.png
+  twitter: ThomasPhinney
+  bio: "Thomas Phinney is CEO of <a href='https://www.fontlab.com'>FontLab</a>, the font software tools company. Previously he had strategic product management roles at Adobe and Extensis. In the 2000s, Thomas was instrumental in driving the adoption of OpenType, both within Adobe and in the marketplace. He developed character set standards for Adobe, and designed Latin/Greek/Cyrillic typefaces Hypatia Sans and Cristoforo. Thomas has four patents and a medal. He also has an MS in printing/typography from RIT—where he did his thesis on technical challenges in Multiple Master font technology—and an MBA from UC Berkeley. Thomas has been on the board of ATypI since 2004."
+  works: You can see his latest works on <a href="http://www.thomasphinney.com/">his website</a> and follow him on <a href="http://www.twitter.com/ThomasPhinney">twitter</a>.
+  title: "Variable Fonts: Full Circle 1991–2017"
+  abstract: "In the early 1990s, Adobe and Apple independently developed Multiple Master fonts and GX Variations, competing axis-based font technologies. By 2000, Adobe had abandoned MM, and GX Variations had minimal support in the marketplace. Yet in 2016, an unprecedented alliance of Adobe, Apple, Microsoft and Google announced Variable Fonts (OpenType Variations), a successor to these arguably failed technologies. What makes axis-based fonts so exciting? How do they free type and graphic designers to do new things? Why did they fail before, and why might Variable Fonts succeed when its predecessors failed? FontLab’s Thomas Phinney shows the potential of Variable Fonts from useful workhorses to the silly and bizarre."
+  video:
