@@ -10,7 +10,7 @@
 - name: tba
   hour:
   image: img/speakers-plc.png
-  twitter: tba
+  twitter: false
   bio:
   works:
   title:
