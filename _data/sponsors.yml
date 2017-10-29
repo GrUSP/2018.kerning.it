@@ -3,12 +3,25 @@ pica:
 bourgeois:
   - name: ideato
     href: http://www.ideato.it/?utm_source=kerningconf
-    img: //2018.kerning.it/img/s-ideato.svg
+    img: /img/2018/s/ideato.svg
     title: Ideato - we create software and develop strategies shaping our customers' ideas
   - name: strada
     href: http://www.stradaioli.com/?utm_source=kerningconf
     img: //2018.kerning.it/img/s-stradaioli.png
-    title: Stradaioli
+    title: Stradaioli - Visual design and labels for your fine goods
+  - name: ilpiac
+    href: http://www.ilpiac.com
+    img: /img/2018/s/ilpiac.png
+    title: Maurizio Piacenza - I design visual communication things
+
 brevier:
 minion:
+  - name: cssday
+    href: http://www.cssday.it
+    img: /img/2018/s/cssday.svg
+    title: CSSDay l'unica conferenza italiana dedicata ai CSS
 media:
+  - name: sketch
+    href: http://www.sketchapp.com
+    img: /img/2018/s/sketch.png
+    title: Sketch app
