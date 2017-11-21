@@ -33,7 +33,16 @@
   works: You can see his latest works on <a href="http://www.riccardolocco.com/">his website</a> and follow him on <a href="https://twitter.com/castfoundry/">twitter</a>.
   title:
   abstract:
-  video:    
+  video:
+- name: Alessia Nicotra
+  hour:
+  image: img/2018/alessia.png
+  twitter: AlessiucciaN
+  bio: "Alessia Nicotra is a Medical Doctor with PhD in Neurology and Neurophysiology. She currently works as a Neuroscience Medical Director in a Contract Research Organization. She is involved in research in type and emotion, and in the exploration of the human visual system and how we read at DaltonMaag."
+  works: You can see her latest tweets on <a href="https://twitter.com/AlessiucciaN/">twitter</a>.
+  title:
+  abstract:
+  video:
 - name: tba
   hour:
   image: img/speakers-plc.png
