@@ -18,3 +18,23 @@
   map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA
   anchor: ewan
   url: ws-calligraphy.html
+- name: Bruno Maag
+  title: "STRAIGHTS AND ROUNDS with Tom Foley and Bruno Maag"
+  image: /img/2018/ws/bruno.png
+  twitter: bruno_maag
+  duration: 2 days
+  when: from 6th to 7th of June 2018
+  where: "The workshop will take place at: Biblioteca Comunale di Faenza (1st Floor)<br/>Via Manfredi n. 14<br/>Faenza (RA)"
+  map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA
+  anchor: daltonmaag
+  url: ws-fontchoosing.html
+- name: Tom Foley
+  title: "STRAIGHTS AND ROUNDS with Tom Foley and Bruno Maag"
+  image: /img/2018/ws/tom.png
+  twitter: TFEFoley
+  duration: 2 days
+  when: from 6th to 7th of June 2018
+  where: "The workshop will take place at: Biblioteca Comunale di Faenza (1st Floor)<br/>Via Manfredi n. 14<br/>Faenza (RA)"
+  map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA
+  anchor: daltonmaag
+  url: ws-fontchoosing.html
