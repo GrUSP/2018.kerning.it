@@ -20,6 +20,10 @@ bourgeois:
 
 brevier:
 minion:
+  - name: serif
+    href:  https://affinity.serif.com/
+    img: /img/2018/s/serif.svg
+    title: Affinity is next-generation photo editing and graphic design for creative professionals on Mac, Windows and iOS. Free trials.
   - name: cssday
     href: http://www.cssday.it
     img: /img/2018/s/cssday.svg
