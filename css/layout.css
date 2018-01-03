@@ -453,11 +453,11 @@ h2 {
 }
 #sp .s-block {
   margin: 25px 0;
-  vertical-align: middle;
 }
 #sp .s-block img {
   padding: 5px 10px;
   width: 48%;
+  vertical-align: middle;  
 }
 #sp .s-block.pica img {
   width: 70%;
