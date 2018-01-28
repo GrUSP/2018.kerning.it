@@ -457,7 +457,7 @@ h2 {
 #sp .s-block img {
   padding: 5px 10px;
   width: 48%;
-  vertical-align: middle;  
+  vertical-align: middle;
 }
 #sp .s-block.pica img {
   width: 70%;
@@ -1246,7 +1246,7 @@ h2 {
   #tickets #eventbrite-iframe {
     max-width: 1000px;
     margin: 0px auto;
-    height: 620px !important;
+    height: 1020px !important;
     display: block;
   }
   #sp .s-block {
