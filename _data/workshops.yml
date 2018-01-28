@@ -18,9 +18,9 @@
   map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA
   anchor: ewan
   url: ws-calligraphy.html
-- name: Bruno Maag
+- name: Bruno Maag & Tom Foley
   title: "STRAIGHTS AND ROUNDS with Tom Foley and Bruno Maag"
-  image: /img/2018/ws/bruno.png
+  image: /img/2018/ws/brunoandtom.png
   twitter: bruno_maag
   duration: 2 days
   when: from 6th to 7th of June 2018
@@ -28,13 +28,13 @@
   map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA
   anchor: daltonmaag
   url: ws-fontchoosing.html
-- name: Tom Foley
-  title: "STRAIGHTS AND ROUNDS with Tom Foley and Bruno Maag"
-  image: /img/2018/ws/tom.png
-  twitter: TFEFoley
-  duration: 2 days
-  when: from 6th to 7th of June 2018
-  where: "The workshop will take place at: Biblioteca Comunale di Faenza (1st Floor)<br/>Via Manfredi n. 14<br/>Faenza (RA)"
-  map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA
-  anchor: daltonmaag
-  url: ws-fontchoosing.html
+- name: Rainer Erich Scheichelbauer, Laurence Penney & Georg Seifert
+  title: "CREATE YOUR OWN VARIABLE FONT with Laurence Penney (Axis Praxis), Rainer Scheichelbauer and Georg Seifert"
+  image: /img/2018/ws/variable-trio.png
+  twitter: mekkablue ‏
+  duration: 1 day
+  when: 7th of June 2018
+  where: "The workshop will take place at: Complesso dei Salesiani<br>Via San Giovanni Bosco n. 1<br/>Faenza (RA)"
+  map: https://www.google.com/maps/place/Via+san+Giovanni+Bosco,+1/@44.2832168,11.8849821,16z
+  anchor: glyphs
+  url: ws-variablefonts.html
