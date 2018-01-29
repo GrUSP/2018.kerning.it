@@ -36,7 +36,8 @@ minion:
   - name: schriftlabor
     href: https://schriftlabor.at/
     img: /img/2018/s/schriftlabor.png
-    title: Corporate Type: Truly Special Fonts for Your Company
+    title: Truly Special Fonts for Your Company
+    
 media:
   - name: sketch
     href: http://www.sketchapp.com
