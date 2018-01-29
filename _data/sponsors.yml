@@ -2,11 +2,11 @@ greatprimer:
 pica:
 bourgeois:
   - name: ideato
-    href: http://www.ideato.it/?utm_source=kerningconf
+    href: http://www.ideato.it/
     img: /img/2018/s/ideato.svg
     title: Ideato - we create software and develop strategies shaping our customers' ideas
   - name: strada
-    href: http://www.stradaioli.com/?utm_source=kerningconf
+    href: http://www.stradaioli.com/
     img: //2018.kerning.it/img/s-stradaioli.png
     title: Stradaioli - Visual design and labels for your fine goods
   - name: ilpiac
@@ -19,6 +19,11 @@ bourgeois:
     title: Behind Dalton Maag is an international team of 40 type designers, font developers, creative directors, software engineers and support staff, spanning 20 nationalities and speaking 12 languages.
 
 brevier:
+  - name: glyphs
+    href:  https://glyphsapp.com/
+    img: /img/2018/s/glyphs.png
+    title:  Create Stunning Fonts on Your Mac
+
 minion:
   - name: serif
     href:  https://affinity.serif.com/
@@ -28,6 +33,10 @@ minion:
     href: http://www.cssday.it
     img: /img/2018/s/cssday.svg
     title: CSSDay l'unica conferenza italiana dedicata ai CSS
+  - name: schriftlabor
+    href: https://schriftlabor.at/
+    img: /img/2018/s/schriftlabor.png
+    title: Corporate Type: Truly Special Fonts for Your Company
 media:
   - name: sketch
     href: http://www.sketchapp.com
