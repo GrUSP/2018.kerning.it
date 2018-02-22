@@ -39,7 +39,7 @@ minion:
     title: Truly Special Fonts for Your Company
   - name: typekit
     href: http://www.typekit.com/
-    img: //2018.kerning.it/img/s/typekit.png
+    img: /img/2018/s/typekit.png
     title: Adobe Typekit
 
 media:
