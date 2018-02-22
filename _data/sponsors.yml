@@ -37,7 +37,11 @@ minion:
     href: https://schriftlabor.at/
     img: /img/2018/s/schriftlabor.png
     title: Truly Special Fonts for Your Company
-    
+  - name: typekit
+    href: http://www.typekit.com/
+    img: //2018.kerning.it/img/s/typekit.png
+    title: Adobe Typekit
+
 media:
   - name: sketch
     href: http://www.sketchapp.com
