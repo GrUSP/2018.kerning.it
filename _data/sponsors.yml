@@ -27,6 +27,10 @@ brevier:
     href:  https://glyphsapp.com/
     img: /img/2018/s/glyphs.png
     title:  Create Stunning Fonts on Your Mac
+  - name: zetafonts
+    href:  https://www.zetafonts.com
+    img: /img/2018/s/zetafonts.svg
+    title:  Zetafonts a font foundry created by Francesco Canovaro, Cosimo Lorenzo Pancini and Debora Manetti.
 
 minion:
   - name: serif
