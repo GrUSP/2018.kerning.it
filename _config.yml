@@ -9,7 +9,7 @@ tickets-eb: //eventbrite.com/tickets-external?eid=35320045206&ref=etckt
 tickets-eb-link: http://kerning-2018.eventbrite.com
 tickets-eb-height: 1024px
 speakers: true
-talks: false
+talks: true
 workshops: true
 schedule: false
 cfs: true
