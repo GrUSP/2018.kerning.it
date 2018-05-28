@@ -21,6 +21,11 @@ bourgeois:
     href: http://klim.co.nz/?utm_source=kerningconf
     img: /img/2018/s/klim.svg
     title: "The Klim Type Foundry (Klim) was founded in 2005 by type designer Kris Sowersby. Klim is based in Wellington, New Zealand and sells its typefaces directly through klim.co.nz."
+  - name: bole
+    href: https://www.bolewine.com/it/?utm_source=kerningconf
+    img: /img/2018/s/bole.png
+    title: "Bolé, Romagna DOC Spumante, contains the essence of a new vision. Effervescent, unstoppable and engaging bubbles that radiate a courageous energy and the power of imagination."
+
 
 brevier:
   - name: glyphs
@@ -54,4 +59,12 @@ media:
   - name: sketch
     href: http://www.sketchapp.com
     img: /img/2018/s/sketch.png
+    title: Sketch app
+  - name: slanted
+    href: https://www.slanted.de
+    img: /img/2018/s/media-SLANTED.png
+    title: Slanted
+  - name: fuoridalfunnel
+    href: https://fuoridalfunnel.it
+    img: /img/2018/s/media-FuoridaFunnel.png
     title: Sketch app
