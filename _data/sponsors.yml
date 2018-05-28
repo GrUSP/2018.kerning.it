@@ -1,6 +1,5 @@
 greatprimer:
 pica:
-bourgeois:
   - name: ideato
     href: http://www.ideato.it/
     img: /img/2018/s/ideato.svg
@@ -9,6 +8,8 @@ bourgeois:
     href: http://www.stradaioli.com/
     img: //2018.kerning.it/img/s-stradaioli.png
     title: Stradaioli - Visual design and labels for your fine goods
+  
+bourgeois:
   - name: ilpiac
     href: http://www.ilpiac.com
     img: /img/2018/s/ilpiac.png
